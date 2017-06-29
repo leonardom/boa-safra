@@ -1,0 +1,12 @@
+/* Site */
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+  font-family: Calibri;
+}
+
+.page-header {
+  text-align: center;
+}
